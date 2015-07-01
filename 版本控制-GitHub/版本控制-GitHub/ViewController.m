@@ -20,6 +20,8 @@
     
     NSLog(@"=====");
     NSLog(@"这是第二个改动的地方");
+    
+    NSLog(@"子分子");
 }
 
 - (void)didReceiveMemoryWarning {
