@@ -19,6 +19,7 @@
     
     
     NSLog(@"=====");
+    NSLog(@"这是第二个改动的地方");
 }
 
 - (void)didReceiveMemoryWarning {
